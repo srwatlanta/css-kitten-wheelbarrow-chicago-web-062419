@@ -1,6 +1,6 @@
 /* Select the image with a class of kitty-1 */
 
-img .kitty-1 {
+.kitty-1 {
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -9,7 +9,7 @@ img .kitty-1 {
 
 /* Select the image with id of kitty-2 */
 
-/*__write_selector_here__*/ {
+.kitty-2 {
   position: absolute;
   z-index: 2;
   top: 212px;
