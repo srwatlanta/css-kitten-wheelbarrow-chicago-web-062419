@@ -36,7 +36,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
-/*__write_selector_here__*/ {
+img {
   position: absolute;
   z-index: 3;
   top: 217px;
